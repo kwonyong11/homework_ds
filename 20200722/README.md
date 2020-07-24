@@ -1,3 +1,21 @@
+# day3 - 선형리스트 응용:
+
+#### 선형리스트 : 행렬 표현
+
+1. 희소행렬 표현의 예:
+
+<img src='https://t1.daumcdn.net/cfile/tistory/2505913358A39F6E1C'>
+
+2. 실습: 행렬 구현
+
+- 아래 링크의 희소행렬 구현 예를 작성해 실습한다.
+- 아래 링크의 전치행렬 구현 예를 작성해 실습한다.
+
+[3.4 배열의 응용: 희소행렬](https://medium.com/@yeonghun4051/c%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%89%BD%EA%B2%8C-%ED%92%80%EC%96%B4%EC%93%B4-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-3%EC%9E%A5-%EB%B0%B0%EC%97%B4-%EA%B5%AC%EC%A1%B0%EC%B2%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0-8ac3f996521d)
+
+
+--
+
 # day3 실습
 
 1. 아래 문제 내용 구현
